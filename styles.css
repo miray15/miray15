@@ -1,0 +1,105 @@
+    body{
+        background-color:#B08BBB;
+        font-family: 'Shadows Into Light', cursive;
+    }
+    
+    h1{
+                font-family: 'Shadows Into Light', cursive;
+                color: #66BFBF;
+                line-height: 2;
+    
+    }
+
+    h3 {
+        font-family: 'Shadows Into Light', cursive;
+       color: #66BFBF;
+    }
+
+
+    .p{
+        color: rgb(14, 120, 69);
+        font-family: 'Lobster Two', cursive;
+        text-align: center;
+        font-size: 2.5rem;
+        line-height: 20px;
+        
+
+    }
+
+    #name {
+        
+        width: 200px;
+        height: 200px;
+        
+    }
+
+    
+
+    .heading {
+      text-align: center;
+       margin-left: 0px;
+       position: block;
+       font-size: 3rem;
+       
+       
+        }
+
+    .top-cloud{
+        position: block;
+        margin-left: 750px;
+    }
+   .bottom-cloud {
+    position: absolute;
+    left: 300px;
+
+   }
+
+   .mountain-1 {
+    position: block;
+    margin-left: 300px;
+} 
+
+.in-car{
+
+    width: 100px;
+    height: auto;
+    position: absolute;
+    margin-left: 10px;
+}
+.yoga{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 70px;
+
+}
+
+.header-me{
+    position: static;
+    margin-left: 160px;
+    color:#66BFBF
+}
+
+
+.skills{
+    position: static;
+    margin-left: 160px;
+    width: 50%;
+}
+.Running{
+    position: static;
+    margin-left: 160px;
+  
+}
+p{
+    color: black;
+}
+
+a{
+    color: #11999E;
+
+}
+h2{
+    font-weight: normal;
+}
